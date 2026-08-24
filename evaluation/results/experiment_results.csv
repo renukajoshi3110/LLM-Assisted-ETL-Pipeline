@@ -1,0 +1,4 @@
+experiment_id,test_case,manual_execution_time_seconds,manual_code_lines,manual_rows,manual_columns,manual_missing_values,manual_duplicates,manual_status,llm_generation_time_seconds,llm_execution_time_seconds,llm_total_time_seconds,llm_pipeline_steps,llm_datasets,llm_rows,llm_columns,llm_missing_values,llm_duplicates,llm_status
+1,order_items + products,1.9394,173,112650,15,0,0,SUCCESS,7.6831,2.6945,10.3776,7,2,112650,15,0,0,SUCCESS
+2,orders + customers,2.1229,181,99441,12,0,0,SUCCESS,9.9843,4.5018,14.4861,7,2,99441,12,0,0,SUCCESS
+3,payments,0.4619,152,103886,5,0,0,SUCCESS,13.3143,0.7549,14.0692,5,1,103886,5,0,0,SUCCESS

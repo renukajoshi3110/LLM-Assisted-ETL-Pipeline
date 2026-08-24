@@ -1,0 +1,15 @@
+metric,value
+Experiments,3.0
+Average Manual ETL Time,1.5080666666666669
+Average LLM Generation Time,10.327233333333334
+Average LLM ETL Time,2.6504000000000003
+Average LLM Total Time,12.977633333333335
+Average Runtime Overhead,11.469566666666667
+Average Manual Code Lines,168.66666666666666
+Average LLM Workflow Steps,6.333333333333333
+Rows Match Rate,100.0
+Columns Match Rate,100.0
+Missing Values Match Rate,100.0
+Duplicate Match Rate,100.0
+Manual Success Rate,100.0
+LLM Success Rate,100.0
